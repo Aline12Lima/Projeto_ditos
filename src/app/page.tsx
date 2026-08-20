@@ -1,2 +1,3 @@
-import { EmployeeStart } from "@/components/restaurant-pages";
-export default function Page() { return <EmployeeStart />; }
+import { ClientHome } from "@/components/restaurant-pages";
+
+export default function Page() { return <ClientHome />; }
